@@ -4,7 +4,7 @@ Este projeto em Python foi criado para praticar o ciclo **Entrada → Processame
 O programa solicita o **nome do aparelho**, a **potência do aparelho em watts (W)**, o **tempo médio de uso diário em horas** e calcula o consumo mensal em kWh. \
 ## Fórmulas utilizadas:
 ```python
-consumoMensal = (potencia * tempo * 30) / 1000 \
+consumoMensal = (potencia * tempo * 30) / 1000 
 custo = consumoMensal * 0.75 #considerando 0.75 como um custo medio de consumo por kWh
 ```
 
