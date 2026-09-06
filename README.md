@@ -8,4 +8,11 @@ consumoMensal = (potencia * tempo * 30) / 1000 \
 custo = consumoMensal * 0.75 #considerando 0.75 como um custo medio de consumo por kWh
 ```
 
-<img alt="PyPI Python Version" src="https://img.shields.io/pypi/pyversions/:packageName">
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
